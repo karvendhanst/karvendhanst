@@ -7,6 +7,8 @@
 
 - FrontEnd Mentor - [Profile](https://www.frontendmentor.io/profile/karvendhanst)
 
+- Medium Blog - [Profile](https://medium.com/@imkarvendhan_91072)
+
 - 📫 How to reach me **imkarvendhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
