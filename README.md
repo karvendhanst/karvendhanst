@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://karvendhanst.github.io/portfolio](https://karvendhanst.github.io/portfolio)
 
+- FrontEnd Mentor - [Profile](https://www.frontendmentor.io/profile/karvendhanst)
+
 - 📫 How to reach me **imkarvendhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
