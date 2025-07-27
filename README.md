@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Karvendhan 🎀</h1>
-<h3 align="center">A passionate Frontend Developer 🤍</h3>
+<h1 align="center">Hi 👋, I'm Karvendhan </h1>
+<h3 align="center">A passionate MERN Stack Developer 🤍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karvendhanst&label=Profile%20views&color=0e75b6&style=flat" alt="karvendhanst" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://karvendhanst.github.io/portfolio](https://karvendhanst.github.io/portfolio)
+- 👨‍💻 All of my projects are available at - [MyWebsite](https://karvendhanst.vercel.app)
 
 - FrontEnd Mentor - [Profile](https://www.frontendmentor.io/profile/karvendhanst)
 
